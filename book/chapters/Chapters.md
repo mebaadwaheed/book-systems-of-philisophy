@@ -1,0 +1,10 @@
+- **[Intro](./intro.md)**
+- **[Foundational Philisophy](./foundational/):**
+-- *[Organization](./foundational/organization.md)*
+-- *[Core](./foundational/core.md)*
+-- *[Manifestations](./foundational/manifestations.md)*
+- **[Individual Philisophy]()**
+- **[Political Philosophy]()**
+- **[Existential Philisophy]()**
+- **[Systemic Philisophy]()**
+- **[Outro](./outro.md)**
